@@ -1,0 +1,45 @@
+.movieCard {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+body {
+  background-image: url('/public/background.jpg');
+}
+
+span.react-read-more-read-less.react-read-more-read-less-more {
+    text-decoration: underline;
+}
+
+input.MuiInputBase-input.MuiInput-input.css-1x51dt5-MuiInputBase-input-MuiInput-input {
+    background: lightgray;
+}
+
+button.btn.btn-primary {
+    background: black;
+}
+#INFO {
+    background: black;
+    border-radius: 7px;
+    color: gray;
+    margin-right: 20%;
+    font-family: auto;
+}
+#Description {
+    background: black;
+    margin-right: 88%;
+    padding-left: 1%;
+    border-radius: 9px;
+    color: darkgray;
+    font-style: oblique;
+    font-size: x-large;
+    padding-bottom: 4px;
+    font-family: auto;
+}
+button.btn.btn-primary {
+    font-family: auto;
+}
+input[type="text"] {
+    border-radius: 14px;
+    font-family: auto;
+}
